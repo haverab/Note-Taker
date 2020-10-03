@@ -3,7 +3,7 @@
 
   ## Description
   Express.js route app that allows the user to create, save, and delete notes.
-  ![Note Taker's Site](/public/assets/images/note-taker.png)
+  
 
   ## Table of Contents
   * [Installation](#installation)
