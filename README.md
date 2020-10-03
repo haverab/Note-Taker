@@ -32,5 +32,3 @@
 
   ## Questions
  Please visit my [GitHub Profile](https://github.com/haverab)
-
- Please contact me via email: [Email](allisonbhaver@gmail.com)
