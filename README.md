@@ -17,7 +17,7 @@
   Clone from GitHub
 
   ## Usage
-  Go to this [link](https://steady-jingo-note-taker.herokuapp.com/) and hit the "Get Started" button. You will be directed to a page with an example note in front of you. To create a new note, click the pencil icon at the top right hand corner, enter a title, and begin taking notes. To save click the save button that populates once a title and text have been entered. Enjoy!
+  Click the "Get Started" button. To create a new note, click the pencil icon at the top right hand corner, enter a title, and begin taking notes. To save click the save button that populates once a title and text have been entered.  
 
   ## License
   [MIT License](https://choosealicense.com/licenses/mit/)
