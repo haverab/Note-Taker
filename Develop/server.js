@@ -13,5 +13,9 @@ app.use(express.static("public"));
 app.use("/api", apiRoutes);
 app.use("/", htmlRoutes);
 
+handleRequest = (req, res) => {
+    res.end("It works!! Path Hit: " + PORT);
+}
+
 // Start the server on the port
 app.listen(PORT, () => console.log(`Listening on PORT: ${PORT}`));
