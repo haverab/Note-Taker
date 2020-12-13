@@ -17,11 +17,7 @@
   Clone from GitHub
 
   ## Usage
-<<<<<<< HEAD
   Click the "Get Started" button. To create a new note, click the pencil icon at the top right hand corner, enter a title, and begin taking notes. To save click the save button that populates once a title and text have been entered.  
-=======
-  Click the "Get Started" button. To create a new note, click the pencil icon at the top right hand corner, enter a title, and begin taking notes. To save click the save button that populates once a title and text have been entered. 
->>>>>>> aa18ba333c46c75bde019e2cca92fc25c14b89ae
 
   ## License
   [MIT License](https://choosealicense.com/licenses/mit/)
