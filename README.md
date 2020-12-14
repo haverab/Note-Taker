@@ -10,7 +10,6 @@
   * [Usage](#usage)
   * [License](#license)
   * [Contributing](#contributing)
-  * [Tests](#tests)
   * [Questions](#questions)
 
   ## Installation
@@ -26,9 +25,6 @@
 
   ## Contributing
   Create a pull request or fork
-
-  ## Tests
-  Jest (npm run test)
 
   ## Questions
  Please visit my [GitHub Profile](https://github.com/haverab)
